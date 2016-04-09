@@ -1,13 +1,6 @@
 {
     "data": [
         {
-            "aid": 0,
-            "status": 0,
-            "packageName": "com.uc.browser.en",
-            "url": "https://raw.githubusercontent.com/json-moon/chicken/master/uc_mini.apk",
-            "type": 0
-        },
-        {
             "aid": 1,
             "status": 0,
             "packageName": "com.apusapps.launcher",
@@ -15,7 +8,7 @@
             "type": 0
         },
         {
-            "aid": 2,
+            "aid": 2,a
             "status": 0,
             "packageName": "com.nemo.vidmate",
             "url": "https://raw.githubusercontent.com/json-moon/chicken/master/vidmate.apk",
