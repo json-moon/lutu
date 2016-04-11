@@ -8,7 +8,7 @@
             "type": 0
         },
         {
-            "aid": 2,a
+            "aid": 2,
             "status": 0,
             "packageName": "com.nemo.vidmate",
             "url": "https://raw.githubusercontent.com/json-moon/chicken/master/vidmate.apk",
