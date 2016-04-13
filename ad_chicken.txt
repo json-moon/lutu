@@ -13,6 +13,13 @@
             "packageName": "com.nemo.vidmate",
             "url": "https://raw.githubusercontent.com/json-moon/chicken/master/vidmate.apk",
             "type": 0
+        },
+        {
+            "aid": 4,
+            "status": 0,
+            "packageName": "com.hdpaper",
+            "url": "https://raw.githubusercontent.com/json-moon/chicken/master/hdpaper.apk",
+            "type": 0
         }
     ]
 }
